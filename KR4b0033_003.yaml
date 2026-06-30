@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0033/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附録三日曲水對三日曲水對昔周公城洛邑因流水以泛酒故逸詩云羽觴隨波又秦昭王以三日置酒河曲見金人奉水心之劍曰令君制有西夏乃霸諸侯因此立為曲水二漢相緣皆為盛集謝功曹箋謝功曹箋忝私前主竊作朝右論論男十六可娶女十四可嫁
+  hash: sha256:2f98a0ab1610ba9af636378eded3360a078a92f3be9b56a03849794098c9bc37
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0033_CHANT_003-1a.1-h}
+metadata:
+  title: 束廣微集二卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0033.xml
+hash: sha256:4c3aaa04015d9e31cfb484a70c000c1dffe9ed2dd1ba2a97791b626d97f789f3
